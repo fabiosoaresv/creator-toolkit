@@ -1,4 +1,4 @@
-# Consultoria — Thumbs + Legendas (Crescer Seco)
+# Toolkit — Thumbs + Legendas (Crescer Seco)
 
 Scripts do fluxo de produção dos vídeos da série **Crescer Seco**
 (musculação / wellness, formato vertical TikTok / Reels / Shorts):
